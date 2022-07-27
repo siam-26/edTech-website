@@ -1,0 +1,57 @@
+body {
+    margin: 0 !important;
+}
+
+/* header section */
+.nav-brand-link {
+    color: #4A4A4A;
+}
+
+.register-button:hover {
+    color: white !important;
+}
+
+/* Slide */
+.slide-heading {
+    font-size: 50px !important;
+}
+
+.slide-div-2 {
+    margin-bottom: 20% !important;
+}
+
+/* Responsive */
+
+/*mobile*/
+@media screen and (max-width:767px) {
+    .img-slide {
+        height: 350px;
+    }
+
+    .slide-div {
+        margin-top: 3% !important;
+    }
+
+    .slide-heading {
+        font-size: 26px !important;
+    }
+
+    .slide-para {
+        font-size: 14px !important;
+    }
+
+}
+
+/* Tav */
+
+@media screen and (min-width:768px) and (max-width:991px) {
+    .img-slide {
+        height: 500px !important;
+    }
+
+    .slide-div {
+        padding-top: 3% !important;
+    }
+
+
+}
