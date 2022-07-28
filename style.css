@@ -22,15 +22,3 @@
         margin-top: 5% !important;
     }
 }
-
-@media screen and (min-width:768px) and (max-width:991px) {
-    .flex-div {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .flex-child-div {
-        width: 100% !important;
-        margin-top: 5% !important;
-    }
-}
