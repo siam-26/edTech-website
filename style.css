@@ -1,11 +1,9 @@
 .img-slide {
-    height: 600px !important;
+    height: 550px !important;
     filter: brightness(40%);
 }
 
-.course-img {
-    height: 250px !important;
-}
+
 
 @media screen and (max-width:767px) {
     .flex-div {
